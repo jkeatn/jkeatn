@@ -19,7 +19,7 @@ Personal writing: **[anzalogue.xyz](https://www.anzalogue.xyz)**
 
 ### What I'm currently working on
 
-**[TintinLoop](https://github.com/jkeatn/321)** — an autonomous AI agent fine-tuned on the complete Tintin corpus. Investigates, reasons, and reports.
+**[TintinLoop](https://github.com/jkeatn/tintin)** — an autonomous AI agent fine-tuned on the complete Tintin corpus. Investigates, reasons, and reports.
 
 ---
 
