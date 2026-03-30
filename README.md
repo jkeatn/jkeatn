@@ -19,8 +19,7 @@ Personal writing: **[anzalogue.xyz](https://www.anzalogue.xyz)**
 
 ### What I'm currently working on
 
-**[TintinLoop](https://github.com/jkeatn/tintin)** — an autonomous AI agent fine-tuned on the complete Tintin corpus. Investigates, reasons, and reports.
-
+**[Nimbus](https://github.com/jkeatn/Nimbus)** — Autonomous weather prediction agent.
 ---
 
 <a href="#"><img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-FFDD00?style=flat-square&logoColor=black" alt="Donate" /></a>
